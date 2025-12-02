@@ -1,0 +1,4 @@
+repository "Chess2D/Chess2D@5772879963251@cloud"
+  path "/"
+    br "/main"
+    co "/main"
